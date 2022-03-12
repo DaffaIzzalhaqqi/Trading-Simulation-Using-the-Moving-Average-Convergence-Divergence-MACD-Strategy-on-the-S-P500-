@@ -1,0 +1,1 @@
+# Trading-Simulation-Using-the-Moving-Average-Convergence-Divergence-MACD-Strategy-on-the-S-P500-
